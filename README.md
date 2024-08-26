@@ -5,10 +5,6 @@
     <p>Everything I learned has been a mistake I have made. Learning something new every day!</p>
 </div>
 
-</br>
-</br>
-</br>
-</br>
 
 ```solidity
 // SPDX-License-Identifier: MIT
@@ -59,11 +55,6 @@ contract 0xPuddi is IExperience {
 }
 ```
 
-</br>
-</br>
-</br>
-</br>
-
 <picture display="absolute">
     <source
         srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=0xPuddi&layout=normal&custom_title=What+I+Like&bg_color=0E1116&border_color=0E1116&title_color=F2A93B&text_color=f5c275"
@@ -79,14 +70,9 @@ contract 0xPuddi is IExperience {
     >
 </picture>
 
-</br>
-</br>
-</br>
-</br>
-
 
 ## $\textsf{\colorbox{transparent}{{\color{Orange}\textbf{Skill\ Set}}}}$
-### $\textsf{\colorbox{transparent}{{\color{Orange}{Frontend}}}}$
+### $\textsf{\color{Orange}{Frontend}}$
 <p float="left">
   <img src="./assets/Logos/html5-original.svg" height="48px">
   <img src="./assets/Logos/css3-original.svg" height="48px">
@@ -97,7 +83,7 @@ contract 0xPuddi is IExperience {
   <img src="./assets/Logos/nextjs-original.svg" height="48px">
 </p>
 
-### $\textsf{\colorbox{transparent}{{\color{Orange}{Backend}}}}$
+### $\textsf{\color{Orange}{Backend}}$
 <p float="left">
   <img src="./assets/Logos/solidity-original.svg" height="48px">
   <img src="./assets/Logos/go-original.svg" height="48px">
@@ -109,7 +95,7 @@ contract 0xPuddi is IExperience {
   <img src="./assets/Logos/c-original.svg" height="48px">
 </p>
 
-### $\textsf{\colorbox{transparent}{{\color{Orange}{DevOps}}}}$
+### $\textsf{\color{Orange}{DevOps}}$
 <p float="left">
   <img src="./assets/Logos/docker-original.svg" height="48px">
   <img src="./assets/Logos/git-plain.svg" height="48px">
@@ -118,14 +104,14 @@ contract 0xPuddi is IExperience {
   <img src="./assets/Logos/linux-original.svg" height="48px">
 </p>
 
-### $\textsf{\colorbox{transparent}{{\color{Orange}{Libararies}}}}$
+### $\textsf{\color{Orange}{Libararies}}$
 <p float="left">
   <img src="./assets/Logos/hardhat-original.svg" height="48px">
   <img src="./assets/Logos/jest-plain.svg" height="48px">
   <img src="./assets/Logos/foundry-original.png" height="48px">
 </p>
 
-### $\textsf{\colorbox{transparent}{{\color{Orange}{Sometimes\ I\ use}}}}$
+### $\textsf{\color{Orange}{Sometimes\ I\ use}}$
 <p float="left">
   <img src="./assets/Logos/bevy-original.svg" height="48px">
   <img src="./assets/Logos/electron-original.svg" height="48px">
