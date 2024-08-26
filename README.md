@@ -5,6 +5,7 @@
     <p>Everything I learned has been a mistake I have made. Learning something new every day!</p>
 </div>
 
+</br>
 
 ```solidity
 // SPDX-License-Identifier: MIT
@@ -71,7 +72,7 @@ contract 0xPuddi is IExperience {
 </picture>
 
 
-## $\textsf{\colorbox{transparent}{{\color{Orange}\textbf{Skill\ Set}}}}$
+## $\textsf{\color{Orange}\textbf{Skill\ Set}}$
 ### $\textsf{\color{Orange}{Frontend}}$
 <p float="left">
   <img src="./assets/Logos/html5-original.svg" height="48px">
