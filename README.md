@@ -52,21 +52,22 @@ contract 0xPuddi is IExperience {
     }
 }
 ```
-
-<picture display="absolute">
-    <source
-        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=0xPuddi&layout=normal&custom_title=What+I+Like&bg_color=0E1116&border_color=0E1116&title_color=F2A93B&text_color=f5c275"
-        media="(prefers-color-scheme: dark)"
-    >
-    <source
-        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=0xPuddi&layout=normal&custom_title=What+I+Like&&title_color=f5c275&text_color=F2A93B"
-        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    >
-    <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xPuddi&layout=normal"
-        alt="Top Languages"
-    >
-</picture>
+<div align="center">
+    <picture display="center">
+        <source
+            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=0xPuddi&layout=normal&custom_title=What+I+Use&bg_color=0E1116&border_color=0E1116&title_color=F2A93B&text_color=f5c275"
+            media="(prefers-color-scheme: dark)"
+        >
+        <source
+            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=0xPuddi&layout=normal&custom_title=What+I+Use&&title_color=f5c275&text_color=F2A93B"
+            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        >
+        <img
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xPuddi&layout=normal"
+            alt="Top Languages"
+        >
+    </picture>
+</div>
 
 
 ## $\textsf{\color{Orange}\textbf{Skill\ Set}}$
