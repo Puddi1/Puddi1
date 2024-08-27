@@ -109,6 +109,7 @@ contract 0xPuddi is IExperience {
         height="48px"
     >
   </picture>
+  <img src="./assets/Logos/wordpress-original.svg" height="48px">
 </p>
 
 ### $\textsf{\color{Orange}{Backend}}$
