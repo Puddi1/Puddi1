@@ -6,8 +6,8 @@
 
 </br>
 
-<div align="center">
-    <picture display="center">
+<div align="left">
+    <picture display="left">
         <source
             srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=0xPuddi&layout=normal&custom_title=What+I+Use&bg_color=0E1116&border_color=0E1116&title_color=F2A93B&text_color=f5c275"
             media="(prefers-color-scheme: dark)"
@@ -24,7 +24,7 @@
 </div>
 
 
-## $\textsf{\color{Orange}\textbf{I use}}$
+## $\textsf{\color{Orange}\textbf{Tech}}$
 ### $\textsf{\color{Orange}{Frontend}}$
 <p float="left">
   <img src="./assets/Logos/html5-original.svg" height="48px">
@@ -140,7 +140,7 @@
   <img src="./assets/Logos/foundry-original.png" height="48px">
 </p>
 
-### $\textsf{\color{Orange}{Sometimes\ I\ use}}$
+### $\textsf{\color{Orange}{Sometimes}}$
 <p float="left">
   <img src="./assets/Logos/bevy-original.svg" height="48px">
   <img src="./assets/Logos/electron-original.svg" height="48px">
