@@ -1,4 +1,3 @@
-<h1 align="center">Hi there I'm <span style="color: #F2A93B">Puddi</span> 👋</h1>
 
 <div  align="center">
     <p>Puddi here.</p>
