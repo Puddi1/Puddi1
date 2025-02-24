@@ -1,57 +1,12 @@
 <h1 align="center">Hi there I'm <span style="color: #F2A93B">Puddi</span> 👋</h1>
 
 <div  align="center">
-    <p>Full stack dev. I prefer to learn both logic and meaning of things, since code is just a way to express them</p>
-    <p>Everything I learned has been a mistake I have made. Learning something new every day!</p>
+    <p>Puddi here.</p>
+<!--     <p>Everything I learned has been a mistake I have made. Learning something new every day!</p> -->
 </div>
 
 </br>
 
-```solidity
-// SPDX-License-Identifier: MIT
-pragma solidity ^0.8.0;
-
-import {IExperience} from "./interfaces/ISideProject.sol";
-
-contract 0xPuddi is IExperience {
-    string private constant TIME_ZONE = "UTC+2";
-    string private constant QUALITY = "Self Learner";
-    string private constant WEAKNESS = "Maverick";
-    uint8 private constant YEARS_OF_EXPERIENCE = 2;
-    uint248 public practice = 999;
-
-    event Completion(string indexed project, uint256 practice);
-
-    struct Projects {
-        mapping(string => uint256) level;
-        mapping(string => bool) completed;
-    }
-    Projects private _projects;
-
-    /**
-     * @notice Routine keeps running
-     */
-    function Routine(string memory project, uint248 completionLevel) external {
-        uint256 level = _projects.level[project];
-
-        for (uint256 i = level; i < completionLevel;) {
-            // Try
-            // Try again
-            // Try again and again
-
-            unchecked {
-                ++i;
-            }
-        }
-
-        _projects.level[project] = completionLevel;
-        practice += completionLevel;
-        _projects.completed[project] = true;
-
-        emit Completion(project, practice);
-    }
-}
-```
 <div align="center">
     <picture display="center">
         <source
