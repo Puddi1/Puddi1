@@ -24,7 +24,7 @@
 </div>
 
 
-## $\textsf{\color{Orange}\textbf{Skill\ Set}}$
+## $\textsf{\color{Orange}\textbf{I use}}$
 ### $\textsf{\color{Orange}{Frontend}}$
 <p float="left">
   <img src="./assets/Logos/html5-original.svg" height="48px">
